@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about GIT.
 - 📫 How to reach me: GITHUB.
 - 😄 Pronouns: wachin.
-- ⚡ Fun fact: GIT.
--->
+- ⚡ Fun fact: GIT. adasd
+--> 
